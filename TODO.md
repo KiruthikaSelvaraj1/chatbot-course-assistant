@@ -1,0 +1,5 @@
+- [x] Update LLM_MODEL to "llama3.1" in app.py and chatbot.py
+- [x] Update NOTES_FILE to "MACHINE LEARNING(R17A0534).pdf" in app.py and chatbot.py
+- [x] Run the Flask app using the virtual environment
+- [x] Create README.md with instructions
+- [x] Test the chatbot by launching browser and asking questions (app is running, ready for testing)

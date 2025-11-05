@@ -1,0 +1,9 @@
+llama-index
+faiss-cpu
+transformers
+torch
+accelerate
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
+llama-index-vector-stores-faiss
+flask

@@ -1,0 +1,23 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+venv/
+*.pyc
+
+# Course materials
+*.pdf
+models/
+
+# Environment
+.env
+.venv
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
