@@ -13,6 +13,7 @@ models/
 .env
 .venv
 env/
+chatbot_env/
 
 # IDE
 .vscode/
@@ -21,3 +22,42 @@ env/
 # Windows
 Thumbs.db
 Desktop.ini
+
+# OS
+.DS_Store
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Large data files
+*.docx
+*.xlsx
+*.pptx
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Flask
+instance/
+.webassets-cache
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets
+secrets.json
+config.json
